@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 - 🎓 **Computer Science & Engineering Student** with a strong foundation in full-stack development and blockchain technologies.
-- 🔗 Currently working on a **Land Registration System using Blockchain**.
 - 🌱 Exploring **Web3, Smart Contracts, and Decentralized Applications (DApps)**.
 - 💡 Interested in **Open Source, System Design, and Scalable Web Applications**.
 - 📄 Check out my **[Resume](https://www.canva.com/design/DAGYmOnz194/9pUN4apfIEPswSdaico74Q/view?utm_content=DAGYmOnz194&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecc596856e)**.
@@ -46,8 +45,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul_xd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 📫 Connect with Me
@@ -64,4 +62,3 @@
 </p>
 
 ---
-⭐️ Inspired by awesome GitHub profiles!
