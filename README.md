@@ -10,6 +10,7 @@
 - 🌱 Exploring **Web3, Smart Contracts, and Decentralized Applications (DApps)**.
 - 💡 Interested in **Open Source, System Design, and Scalable Web Applications**.
 - 📄 Check out my **[Resume](https://www.canva.com/design/DAGYmOnz194/9pUN4apfIEPswSdaico74Q/view?utm_content=DAGYmOnz194&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecc596856e)**.
+<!--
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-xd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+-->
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rahul-potta-419791254/" target="_blank">
