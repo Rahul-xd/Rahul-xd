@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGYmOnz194/9pUN4apfIEPswSdaico74Q/view?utm_content=DAGYmOnz194&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecc596856e](https://www.canva.com/design/DAGYmOnz194/9pUN4apfIEPswSdaico74Q/view?utm_content=DAGYmOnz194&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecc596856e)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGYmOnz194/9pUN4apfIEPswSdaico74Q/view?utm_content=DAGYmOnz194&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecc596856e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
